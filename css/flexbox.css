@@ -61,6 +61,10 @@
         flex-direction: column;
     }
 
+    .cabecalhoPrincipal-nav-link-app {
+        order: -1;
+    }
+
     .cabecalhoPrincipal .container {
         flex-direction: column;
         align-items: initial;
